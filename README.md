@@ -12,7 +12,7 @@ Currently you can:
 More features are coming soon!
 
 # Installation & setup for self-hosting (you won't need to do this once I have figured out the issues below)
-Currently you will have to self-host the bot as I haven't found a way to allow the bit to fully rely on Telegram (I need to find a way to allow the user to login with their Apple ID inside of Telegram and not in the terminal) and host it online. (DM me if you know how, I would greatly appreciate it)
+Currently you will have to self-host the bot as I haven't found a way to allow the bot to fully rely on Telegram (I need to find a way to allow the user to login with their Apple ID inside of Telegram and not in the terminal) and host it online. (DM me if you know how, I would greatly appreciate it)
 
 1. Download the main.py file from the repository folder.
 2. Add your bot token and Apple ID email/password in their respected places.
